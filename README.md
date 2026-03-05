@@ -12,7 +12,7 @@ Tech agency landing page with portfolio filter, team and FAQ sections built with
 
 BrainTech is a multi-section landing page for a tech agency or startup. Built as an early project using classic web technologies — Bootstrap for responsive layout, jQuery for interactivity, AOS for scroll animations and Isotope for filterable portfolio grid.
 
-🔗 **Live:** [vergos1.github.io/braintech](https://vergos1.github.io/braintech/)
+🔗 **Live:** [braintech](https://vergos1.github.io/braintech/)
 
 ## Pages
 
